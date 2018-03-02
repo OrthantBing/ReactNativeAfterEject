@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Orthant\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_80ddd580bc66f4e2935d33c9063cda055307cdc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\myfirstapp\react-native-navigation\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea3694ab3e55f2bedb3737e2bdecfa462ce190ff">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\myfirstapp-react-native-navigation-unspecified_bb66bcdbdd000900314878efabf75e12a3f6f66c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_ae19c305c29981634cc1fab092c275f883a97742.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Orthant\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_80ddd580bc66f4e2935d33c9063cda055307cdc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.aurelhubert\ahbottomnavigation\2.0.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.aurelhubert-ahbottomnavigation-2.0.6_1aa7aeecddde2e7fa39799628fd9ae6474063c5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu-toolbar\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.balysv.materialmenu-material-menu-toolbar-1.5.4_5e7637f1162d576a9a445b37a36d14056b578071.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Orthant\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_caa340ed84bae6f7eb17233b6bf5ca72c70f4905.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\myfirstapp\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\myfirstapp-react-native-vector-icons-unspecified_4fe3808cbaed25fcd8f32c9318a1d5dc48cc9ad7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_f967d7f50950d8782ce34b9d30cc2651ec8f1f75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\myfirstapp\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\myfirstapp-react-native-vector-icons-unspecified_4fe3808cbaed25fcd8f32c9318a1d5dc48cc9ad7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_0fcf272bfaa42ffe81b7c979b92eaaf8e2efa8fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Orthant\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_147cf5e3f70956a9ad8d9269d54c1c72810f5312.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_8482f069e81b7725c435fef8da6a97eddfe89e2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_bad7383976697ca95fdfcdf1c85c98b82043573d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Orthant\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_901e8b7136ca8086fcf379d1fc6cf39635fab156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.52.0_4d0dd94442744a0f358495650b1294e236e5c561.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_0ec1d9207ace13149e6e1a5429b342e8977a9643.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_36927a05fcdb386581f18745a1784ddcc4816f41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_3632ab49eda747e3406e0f0fbf856047c2da3779.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Orthant\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_d4e6474079252d51f87c93ee60184f7c95191939.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Orthant\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_7e288b8d123b91e8701fea2d9e9f95a44c298e34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_fd11491872d7c252c4796300f0f4000cf1d6179f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_f967d7f50950d8782ce34b9d30cc2651ec8f1f75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_0b37825a35fbf63a316cc90c10eb5317ecbd22a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Orthant\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_7e288b8d123b91e8701fea2d9e9f95a44c298e34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_0ec1d9207ace13149e6e1a5429b342e8977a9643.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Orthant\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_5bc0dcc84d8d5f2c2c86d2cbda952345659068fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_fd11491872d7c252c4796300f0f4000cf1d6179f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Orthant\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_901e8b7136ca8086fcf379d1fc6cf39635fab156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_0b37825a35fbf63a316cc90c10eb5317ecbd22a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Orthant\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_d4e6474079252d51f87c93ee60184f7c95191939.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Orthant\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_5bc0dcc84d8d5f2c2c86d2cbda952345659068fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_ae927f03e65e1184892e34b474c740a5a160f60b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Orthant\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_8b68b576c12571b2611e730050b291e57eecdc0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Orthant\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_8b68b576c12571b2611e730050b291e57eecdc0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_efebd143b6d7da7040cb3ab198280aa22b12ffed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_efebd143b6d7da7040cb3ab198280aa22b12ffed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_a723f8fba7a38fe437a2628f130eb99b8365a827.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_782ab4c5793871d58f20014ed4e06d9723451294.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_ae927f03e65e1184892e34b474c740a5a160f60b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_a828f3c541ce34800260b1c2d9b6c4b9efadc047.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.52.0_4d0dd94442744a0f358495650b1294e236e5c561.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_bc2136e5222b84d5b0afcb5654ac1927059dcc1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_abcf10b576267620114808dcc3f5b9234e36ce21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.balysv.materialmenu-material-menu-1.5.4_fe86ea88244f43c2501e282e0bc486358c323cfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_37c66ad24815b0b66494d005d4868df9f2c24b87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Orthant\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_b835a01f04d76b7ef4e942ef7b8ebdb427423a4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_84af4777333de1c3ed74a7c58fb87ffd43234373.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_147064bcafe034bd2694cfb8354acd0978a17811.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_37c66ad24815b0b66494d005d4868df9f2c24b87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Orthant\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_b835a01f04d76b7ef4e942ef7b8ebdb427423a4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_147064bcafe034bd2694cfb8354acd0978a17811.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_525442df58e098cf21a35091de9c121aa1f44828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_ae19c305c29981634cc1fab092c275f883a97742.jar" />
+    </item>
+
+</items>

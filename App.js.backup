@@ -1,0 +1,135 @@
+import React, { Component } from "react";
+import { StyleSheet, Text, View, TextInput, Button } from "react-native";
+import { connect } from "react-redux";
+import ListItem from "./src/components/ListItem/ListItem";
+import UserInput from "./src/components/UserInput/UserInput";
+import PlaceList from "./src/components/PlaceList/PlaceList";
+import PlaceDetail from "./src/components/PlaceDetail/PlaceDetail";
+import narutoImage from "./src/assets/naruto.png";
+
+import {
+  addPlace,
+  deletePlace,
+  selectPlace,
+  deselectPlace
+} from "./src/store/actions/index";
+
+class App extends Component {
+  // state = {
+  //   selectedPlace: null,
+  //   places: []
+  // };
+
+  placeChangeAdd = placeName => {
+    this.props.onAddPlace(placeName);
+    // this.setState(prevState => {
+    //   return {
+    //     places: [
+    //       ...prevState.places,
+    //       {
+    //         key: Math.random(),
+    //         name: placeName,
+    //         image: {
+    //           uri:
+    //             "https://vignette.wikia.nocookie.net/naruto/images/4/42/Naruto_Part_III.png/revision/latest/scale-to-width-down/300?cb=20180117103539"
+    //         } //narutoImage }
+    //       }
+    //     ]
+    //   };
+    // });
+  };
+
+  placeSelectedHandler = key => {
+    this.props.onSelectPlace(key);
+    // this.setState(prevState => {
+    //   return {
+    //     selectedPlace: prevState.places.find(place => {
+    //       return place.key === key;
+    //     })
+    //   };
+    // });
+  };
+  placeDeletedHandler = () => {
+    this.props.onDeletePlace();
+    // this.setState(prevState => {
+    //   return {
+    //     // places: [
+    //     //   ...prevState.places.slice(0, index),
+    //     //   ...prevState.places.slice(index + 1)
+    //     // ]
+    //     places: prevState.places.filter(place => {
+    //       return place.key !== prevState.selectedPlace.key;
+    //     }),
+    //     selectedPlace: null
+    //   };
+    // });
+  };
+
+  modalClosedHandler = () => {
+    // this.setState({
+    //   selectedPlace: null
+    // });
+    this.props.onDeselectPlace();
+  };
+  render() {
+    console.log(this.props);
+    return (
+      <View style={styles.container}>
+        <PlaceDetail
+          // selectedPlace={this.state.selectedPlace}
+          selectedPlace={this.props.selectedPlace}
+          onItemDeleted={this.placeDeletedHandler}
+          onModalClosed={this.modalClosedHandler}
+        />
+        <UserInput placeChangeAdd={this.placeChangeAdd} />
+        <PlaceList
+          // places={this.state.places}
+          places={this.props.places}
+          onItemSelected={this.placeSelectedHandler}
+        />
+      </View>
+    );
+  }
+}
+
+const styles = StyleSheet.create({
+  container: {
+    padding: 40,
+    flex: 1,
+    backgroundColor: "#fff",
+    alignItems: "center",
+    justifyContent: "flex-start"
+  },
+  inputContainer: {
+    width: "100%",
+    flexDirection: "row",
+    justifyContent: "space-between",
+    alignItems: "center"
+  },
+  placeInput: {
+    width: "70%"
+  },
+  placeButtion: {
+    width: "30%"
+  },
+  listContainer: {
+    width: "100%"
+  }
+});
+
+const mapStateToProps = state => {
+  return {
+    places: state.places.places,
+    selectedPlace: state.places.selectedPlace
+  };
+};
+
+const mapDispatchToProps = dispatch => {
+  return {
+    onAddPlace: name => dispatch(addPlace(name)),
+    onDeletePlace: () => dispatch(deletePlace()),
+    onSelectPlace: key => dispatch(selectPlace(key)),
+    onDeselectPlace: () => dispatch(deselectPlace())
+  };
+};
+export default connect(mapStateToProps, mapDispatchToProps)(App);
