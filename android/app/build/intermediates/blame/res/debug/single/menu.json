@@ -1,5 +1,13 @@
 [
     {
+        "merged": "G:\\aggulabs\\React Native\\ReactNativeAfterEject\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\stub.xml",
+        "source": "G:\\aggulabs\\React Native\\ReactNativeAfterEject\\android\\app\\build\\intermediates\\exploded-aar\\myfirstapp\\react-native-navigation\\unspecified\\res\\menu\\stub.xml"
+    },
+    {
+        "merged": "G:\\aggulabs\\React Native\\ReactNativeAfterEject\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search_item.xml",
+        "source": "G:\\aggulabs\\React Native\\ReactNativeAfterEject\\android\\app\\build\\intermediates\\exploded-aar\\myfirstapp\\react-native-navigation\\unspecified\\res\\menu\\search_item.xml"
+    },
+    {
         "merged": "G:\\aggulabs\\React Native\\LearningReactNative\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search_item.xml",
         "source": "G:\\aggulabs\\React Native\\LearningReactNative\\android\\app\\build\\intermediates\\exploded-aar\\myfirstapp\\react-native-navigation\\unspecified\\res\\menu\\search_item.xml"
     },
