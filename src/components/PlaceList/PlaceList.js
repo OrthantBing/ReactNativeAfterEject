@@ -23,6 +23,7 @@ const placeList = props => {
           <ListItem
             placeName={info.item.name}
             placeImage={info.item.image}
+            placeLocation={info.item.location}
             onItemPressed={() => props.onItemSelected(info.item.key)}
           />
         );

@@ -2,9 +2,5 @@
     {
         "merged": "G:\\aggulabs\\React Native\\ReactNativeAfterEject\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
         "source": "G:\\aggulabs\\React Native\\ReactNativeAfterEject\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "G:\\aggulabs\\React Native\\LearningReactNative\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
-        "source": "G:\\aggulabs\\React Native\\LearningReactNative\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]

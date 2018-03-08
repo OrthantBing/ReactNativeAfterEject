@@ -1,0 +1,123 @@
+import React, { Component } from "react";
+import { View, Button, StyleSheet, TextInput } from "react-native";
+import DefaultInput from "../../components/UI/DefaultInput";
+import Validate from "../../utility/utility";
+
+class PlaceInput extends Component {
+    // state = {
+    //     // placeName: ""
+    //     controls: {
+    //         placeName: {
+    //             value: "",
+    //             valid: false,
+    //             touched: false,
+    //             validationRules: {
+    //                 notEmpty: true
+    //             }
+    //         }
+    //     }
+    // };
+
+    // placeNameChanged = val => {
+    //     this.setState(prevState => {
+    //         return {
+    //             controls: {
+    //                 ...prevState.controls,
+    //                 placeName: {
+    //                     ...prevState.controls.placeName,
+    //                     value: val,
+    //                     valid: Validate(val, prevState.controls.placeName.validationRules),
+    //                     touched: true
+    //                 }
+    //             }
+    //         }
+    //     });
+    //     //this.setState({ placeName: val });
+    // };
+
+    // placeSubmitHandler = () => {
+    //     if (this.state.controls.placeName.value.trim() === "") {
+    //         return;
+    //     }
+
+    //     this.props.placeChangeAdd(this.state.controls.placeName.value);
+    //     //this.setState({ placeName: "" });
+    //     this.setState(prevState => {
+    //         return {
+    //             controls: {
+    //                 ...prevState.controls,
+    //                 placeName: {
+    //                     ...prevState.controls.placeName,
+    //                     value: "",
+    //                     valid: false,
+    //                     touched: false
+    //                 }
+    //             }
+    //         }
+    //     });
+    //     return;
+    // };
+
+    render() {
+        return (
+            //   <View style={styles.inputContainer}>
+            //     <TextInput
+            //       value={this.state.placeName}
+            //       onChangeText={this.placeNameChanged}
+            //       placeholder="An awesome place testing"
+            //       style={styles.placeInput}
+            //     />
+            //     <Button
+            //       title="Add"
+            //       onPress={this.placeSubmitHandler}
+            //       style={styles.placeButton}
+            //     />
+            //   </View>
+            <View style={styles.wrapperview}>
+                <DefaultInput placeholder="Place Name" 
+                    //value={this.state.controls.placeName.value}
+                    value={this.props.placeData.value}
+                    
+                    onChangeText={this.placeNameChanged}
+                    placeholder="An awesome place testing"
+                    style={styles.placeInput}
+                    //valid={this.state.controls.placeName.valid}
+                    touched={this.state.controls.placeName.touched}
+                />
+                {/* <View style={styles.button}>
+                    <Button
+                        disabled={!this.state.controls.placeName.valid}
+                        title="Share the Place!"
+                        onPress={this.placeSubmitHandler}
+                        style={styles.placeButton}
+                    />
+                </View> */}
+            </View>
+        );
+    }
+}
+
+const styles = StyleSheet.create({
+    wrapperview: {
+        width: "100%",
+        flexDirection: "column",
+        alignItems: "center"
+    },
+    inputContainer: {
+        width: "100%",
+        flexDirection: "row",
+        justifyContent: "space-between",
+        alignItems: "center"
+    },
+    placeInput: {
+        width: "70%"
+    },
+    placeButton: {
+        width: "30%"
+    },
+    button: {
+        margin: 8
+    }
+});
+
+export default PlaceInput;

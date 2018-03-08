@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\exploded-aar\myfirstapp\react-native-maps\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="634269d826283e4221210b70e7ebcb44b6e7d918">
+        <dex dex="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\pre-dexed\debug\myfirstapp-react-native-maps-unspecified_ac12d56f77e0c45988aa19f2d0852cfec727c8a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Orthant\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
         jumboMode="false"
         optimize="true"
@@ -12,12 +21,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_6a35ce2115329784df52f1866d712bcd492af5be.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
         <dex dex="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_d4433d39a6e06e1a458eb973780b67d88be804c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_863a0192da2a580bddb6fa3d71d9d56a34e003ef.jar" />
     </item>
     <item
         is-multidex="false"
@@ -120,12 +147,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\exploded-aar\myfirstapp\react-native-image-picker\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4bc7e4c88d8a58037f153bc224b47da51ae40f2f">
+        <dex dex="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\pre-dexed\debug\myfirstapp-react-native-image-picker-unspecified_06d14b3097a2fa0e7b019b545aac84388ea31c7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\myfirstapp\react-native-vector-icons\unspecified\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
         <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\myfirstapp-react-native-vector-icons-unspecified_4fe3808cbaed25fcd8f32c9318a1d5dc48cc9ad7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_d1094d8b9d5d1162d1844578198c936f9a849a8e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -210,6 +255,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.52.0_4d0dd94442744a0f358495650b1294e236e5c561.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -225,15 +279,6 @@
         revision="25.0.1"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
         <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_901e8b7136ca8086fcf379d1fc6cf39635fab156.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
-        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.52.0_4d0dd94442744a0f358495650b1294e236e5c561.jar" />
     </item>
     <item
         is-multidex="false"
@@ -336,6 +381,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_e038beb9a620ea53b2f03be9f86b8f07afb15b55.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Orthant\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
         jumboMode="false"
         optimize="true"
@@ -435,21 +489,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_4662826fb705bcbbbbf24322eceb853cdfce8b4f.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
         <dex dex="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_f30099a25cfa2735d3569ade22d76847864dc982.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_4662826fb705bcbbbbf24322eceb853cdfce8b4f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -471,6 +525,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_efebd143b6d7da7040cb3ab198280aa22b12ffed.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -486,15 +549,6 @@
         revision="25.0.1"
         sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
         <dex dex="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\pre-dexed\debug\com.balysv.materialmenu-material-menu-1.5.4_6986c2bb27dcf17fa7b3f93f217d16d33b40a19b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_efebd143b6d7da7040cb3ab198280aa22b12ffed.jar" />
     </item>
     <item
         is-multidex="false"
@@ -606,6 +660,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_84af4777333de1c3ed74a7c58fb87ffd43234373.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -621,15 +684,6 @@
         revision="25.0.1"
         sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
         <dex dex="G:\aggulabs\React Native\ReactNativeAfterEject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_b5e421021be25c701ddb0c530f885eda7af20405.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="G:\aggulabs\React Native\LearningReactNative\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_84af4777333de1c3ed74a7c58fb87ffd43234373.jar" />
     </item>
     <item
         is-multidex="false"

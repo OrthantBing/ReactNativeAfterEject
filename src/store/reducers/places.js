@@ -12,6 +12,10 @@ const initialState = {
       image: {
         uri:
           "https://vignette.wikia.nocookie.net/naruto/images/4/42/Naruto_Part_III.png/revision/latest/scale-to-width-down/300?cb=20180117103539"
+      },
+      location: {
+        latitude: 12,
+        longitude: 80
       }
     }
   ],
@@ -22,7 +26,8 @@ const reducer = (state = initialState, action) => {
   switch (action.type) {
     case ADD_PLACE:
       const placeName = action.placeName;
-
+      const location = action.location;
+      const image = action.image;
       return {
         ...state,
         places: [
@@ -30,9 +35,9 @@ const reducer = (state = initialState, action) => {
           {
             key: Math.random(),
             name: placeName,
+            location: location,
             image: {
-              uri:
-                "https://vignette.wikia.nocookie.net/naruto/images/4/42/Naruto_Part_III.png/revision/latest/scale-to-width-down/300?cb=20180117103539"
+              uri: image.uri
             } //narutoImage }
           }
         ]
